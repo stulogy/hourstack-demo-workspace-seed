@@ -99,7 +99,7 @@
 			'Color Scheme Review',
 		],
 		'labels' => [
-			'Branding'
+			'Branding',
 			'Design',
 			'Meetings',
 			'Development',
