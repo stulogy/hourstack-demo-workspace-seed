@@ -4,11 +4,11 @@
 		'workspaces' => [
 			'ACME',
 			'Forward Thinking',
+			'Neptune Studios',
 			'ASO Digital',
 			'Keyline',
 			'WTC Media',
 			'RE-space',
-			'Digital Creativity',
 			'CRE8',
 			'Teal Creative',
 			'RD Development',
@@ -90,7 +90,7 @@
 			'Zapier Integration',
 			'Database Migration',
 			'Database Indexing',
-			'Marketing Material Relaunch',
+			'Marketing Material Update',
 			'Customer Research',
 			'TPS Reports',
 			'Code Review',
@@ -110,6 +110,15 @@
 			'In Review',
 			'Pending Discussion',
 			'For Review',
+			'On Hold',
+			'Sales',
+			'Finance',
+			'Bug',
+			'Features',
+			'Product',
+			'Reports',
+			'Feedback',
+			'Support'
 		],
 		'tasks' => [
 			'Logo design review',
@@ -153,6 +162,15 @@
 			'Google Analytics report',
 			'Convert data to CSV',
 			'Update stylesheets',
+			'Build process guidelines',
+			'Demo preparation',
+			'Update color palette',
+			'Fix templates',
+			'Export databases',
+			'Form designs',
+			'Security audit',
+			'XSS review',
+			'Prepare quarterly reports'
 		]
 	]
 
